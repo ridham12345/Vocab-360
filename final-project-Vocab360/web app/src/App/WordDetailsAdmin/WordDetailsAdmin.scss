@@ -1,0 +1,29 @@
+@import "../App.scss";
+
+// styling for the labels in the word details screen
+.worddetails-label{
+    margin-left: 30px;
+    padding-bottom: 15px;
+    color: $greendim;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+// styling for the title of word details screen
+.worddetails-title {
+    @extend .worddetails-label;
+    font-size: 32px;
+}
+
+// styling for the buttons in the word details screen
+.worddetails-btn {
+    margin-left: 30px;
+    background-color: $bluedark;
+    border: none;
+    color: $greenmed;
+    font-weight: bold;
+    font-size: 24px;
+    &:hover {
+        color: beige
+    }
+}

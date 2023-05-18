@@ -1,0 +1,39 @@
+@import '../App.scss';
+
+// styling for the whole word edit container
+.wordadd {
+    margin-left: 30px;
+    display: grid;
+    grid-template-columns: 3fr 5fr;
+    width: 400px;
+    * {
+        font-size:24px;
+        margin-top:20px;
+    }
+}
+
+// styling for the button container in word edit screen
+.wordedit-btns{
+    margin-left: 30px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    width: 400px;
+    // additional styling for buttons in the word edit screen
+    * {
+        color: $greenmed;
+        background-color: $bluedark;
+        font-size: 24px;
+        font-weight: bold;
+        padding-top:20px;
+        border:none;
+        &:hover {
+            color: $biege;
+        }
+    }
+}
+
+// styling for header in the word edit screen
+.wordadd-header {
+    margin-left: 30px;
+    font-size: 32px;
+}

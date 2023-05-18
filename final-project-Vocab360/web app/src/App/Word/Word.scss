@@ -1,0 +1,166 @@
+@import '../App.scss';
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+// styling for the whole card
+.word{
+    width: 25%;
+    background-color: $greenmed;
+    border-radius: 20px;
+    margin: auto;
+    margin-top: 50px;
+    min-width: 500px;
+    min-height: 250px;
+}
+
+// styling for the title container of the word
+.word-title {
+    position: absolute;
+    display: block;
+    color: $bluedark;
+    font-weight: bolder;
+    font-size: 28px;
+    padding-bottom:10px;
+    top:50px;
+    left: 180px;
+}
+
+// styling for the definition container of the word
+.word-def {
+    display: block;
+    color: $bluedark;
+    font-weight: bold;
+    font-size: 20px;
+    padding-top:15px;
+    text-align: center;
+}
+
+//styling for the title
+.title{
+    position: relative;
+    text-align: center;
+    padding: 5px;
+    padding-top: 40px;
+}
+
+//styling for the buttons know and dont know
+.btns {
+    padding-top: 40px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+@mixin btns-card {
+    border: none;
+    color: $biege;
+    background-color: $greenmed;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+//additional styling for kknow button
+.button-knew{
+    @include btns-card;
+    &:hover {
+        cursor: pointer;
+        color: $bluedark;
+    }
+}
+
+//additional styling for dont know button
+.button-didnt-know{
+    @include btns-card;
+    text-align: center;
+    &:hover {
+        cursor: pointer;
+        color: red;
+    }
+} 
+
+//nstyling for the star to add favourites 
+.star {
+    position: relative;
+    right: -150px;
+
+    display: inline-block;
+    width: 0;
+    height: 0;
+    
+    margin-left: .9em;
+    margin-right: .9em;
+    margin-bottom: 1.2em;
+    
+    border-right:  .3em solid transparent;
+    border-bottom: .7em  solid $biege;
+    border-left:   .3em solid transparent;
+  
+    /* Controlls the size of the stars. */
+    font-size: 24px;
+    
+    &:before, &:after {
+      content: '';
+      
+      display: block;
+      width: 0;
+      height: 0;
+      
+      position: absolute;
+      top: .6em;
+      left: -1em;
+    
+      border-right:  1em solid transparent;
+      border-bottom: .7em  solid $biege;
+      border-left:   1em solid transparent;
+    
+      transform: rotate(-35deg);
+    }
+    &:after {  
+        transform: rotate(35deg);
+    }
+}  
+
+// styling for the favourite word
+.favourite-star {
+    position: relative;
+    right:-150px;
+    
+    display: inline-block;
+    width: 0;
+    height: 0;
+    
+    margin-left: .9em;
+    margin-right: .9em;
+    margin-bottom: 1.2em;
+    
+    border-right:  .3em solid transparent;
+    border-bottom: .7em  solid $bluedark;
+    border-left:   .3em solid transparent;
+    
+    /* Controlls the size of the stars. */
+    font-size: 24px;
+    
+    &:before, &:after {
+        content: '';
+        
+        display: block;
+        width: 0;
+        height: 0;
+        
+        position: absolute;
+        top: .6em;
+        left: -1em;
+    
+        border-right:  1em solid transparent;
+        border-bottom: .7em  solid $bluedark;
+        border-left:   1em solid transparent;
+    
+        transform: rotate(-35deg);
+    }
+    &:after {  
+        transform: rotate(35deg);
+    }
+}  

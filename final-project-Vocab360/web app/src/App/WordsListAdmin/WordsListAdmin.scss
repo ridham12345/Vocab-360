@@ -1,0 +1,38 @@
+@import "../App.scss";
+
+.wrodslist {
+    margin-left: 30px;
+}
+
+// styling for the title of the word list screen
+.title-wordslist > * {
+    font-size: 32px;
+    font-weight: bold;
+    color: $greenmed;
+    margin-left:30px;
+    margin-bottom: 20px;
+}
+
+//sty;ing for the buttons in the word list screen
+.title-wordslist button {
+    background-color: $bluedark;
+    border: none;
+    &:hover {
+        color: $biege;
+    }
+}
+
+//styling for the body of the words list screen
+.body-wordslist {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    margin-left: 32px;
+    * {
+        padding-bottom: 10px;
+        font-size: 20px;
+        &:hover {
+            color: $biege;
+        }
+    }
+}
+

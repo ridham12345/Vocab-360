@@ -1,0 +1,91 @@
+@import '../App.scss';
+
+.section-contaiers {
+    display: grid;
+    grid-template-columns: 24% 36% 40%;
+    gap: 25px;
+}
+
+.imagediv {
+    position: relative;
+}
+
+.rounded-circle {
+    position: absolute;
+    width:200px;
+    background-color: $bluedark;
+    margin: auto;
+    text-align: center;
+    left:40px;
+}
+
+.person-metadata {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+    font-weight: bold;
+}
+
+.header {
+    font-size: 24px;
+    padding-bottom: 20px;
+}
+
+
+.btn-save-profile {
+    border:none;
+    background-color: $bluedark;
+    color: $greenmed;
+    padding-top: 20px;
+    font-size: 22px;
+    font-weight: bold;
+    &:hover {
+        color: $biege;
+    }
+}
+
+.profile-stats {
+    position: relative;
+}
+
+.piechart {
+    position: absolute;
+    top:100px;
+    height:250px;
+    color: $biege;
+}
+
+.btnupload {
+    position: absolute;
+    top: 360px;
+}
+
+.form-group {
+    display: grid;
+    margin-left: 30px;
+    grid-template-columns: 1fr;
+    * {
+        margin-bottom:20px;
+    }
+    
+}
+
+.img-btn {
+    font-weight: bold;
+}
+
+.btnUpload {
+    @extend .btn-save-profile;
+    padding-top: 0px;;
+}
+
+.piechart {
+    width: 500px;
+}
+
+.expscore {
+    padding-bottom: 30px;
+}
+.listlinks {
+    margin-top: 20px;
+}

@@ -1,0 +1,63 @@
+@import '../App.scss';
+
+.navbar {
+    color: $greenmed;
+    background-color: $bluedark;
+}
+
+@mixin navtitles {
+    color: $greenmed;
+    text-decoration: none;
+    font-weight: bold;
+    padding:15px;
+    vertical-align: center;
+    text-align:center;
+}
+
+.spacecreater {
+    height: 15px;
+}
+
+.spacecreater2 {
+    height: 10px;
+}
+
+a {
+    @include navtitles;
+    font-size: 18px;
+    &:hover {
+        color: $biege;
+    }
+}
+
+.navtitle {
+    @include navtitles();
+    font-size: 24px;
+
+}
+
+label {
+    font-size: 18px;
+}
+
+.logosvg {
+    margin:auto;
+    height:30px;
+    width: auto;
+    fill: $greenmed;
+    stroke: $greenmed;
+}
+
+.logout {
+    @include navtitles;
+    font-size: 18px;
+    float: right;
+    margin-right: 30px;
+    background-color: $bluedark;
+    border: none;
+    padding-top: 7px;
+    
+    &:hover {
+        color: $biege;
+    }
+}

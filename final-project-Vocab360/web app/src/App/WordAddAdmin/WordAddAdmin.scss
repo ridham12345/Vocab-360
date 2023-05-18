@@ -1,0 +1,30 @@
+@import '../App.scss';
+
+// styling for the main conatiner
+.wordadd {
+    margin-left: 30px;
+    display: grid;
+    grid-template-columns: 3fr 5fr;
+    width: 400px;
+    // additional styling for children in the gird
+    * {
+        font-size:24px;
+        margin-top:20px;
+    }
+    //additional styling for buttons in the grid
+    button {
+        background-color: $bluedark;
+        border: none;
+        color: $greenmed;
+        font-weight: bold;
+        &:hover {
+            color: beige
+        }
+    }
+}
+
+//styling for the header
+.wordadd-header {
+    margin-left: 30px;
+    font-size: 32px;
+}

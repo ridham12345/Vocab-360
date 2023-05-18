@@ -1,0 +1,20 @@
+@import '../App.scss';
+
+// styling for admin headers
+.header-admin {
+    font-weight: bold;
+    font-size: 32px;
+    margin-left: 30px;
+    padding-bottom: 15px;
+}
+
+// styling for buttons in admin page
+.btn-admin {
+    font-weight: bold;
+    font-size: 24px;
+    margin-left: 34px;
+    padding-top: 15px;
+    &:hover {
+        color: $biege;
+    }
+}

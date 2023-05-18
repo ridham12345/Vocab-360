@@ -1,0 +1,69 @@
+@import '../App.scss';
+
+.forecast {
+    margin: 0;
+    padding: .3rem;
+    background-color: $biege;
+    font: 1rem 'Fira Sans', sans-serif;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.forecast > h1,
+.day-forecast {
+    margin: .5rem;
+    padding: .3rem;
+    font-size: 1.2rem;
+}
+
+.day-forecast {
+    background: $bluedark;
+    border-radius: 12px;
+    text-align: center;
+}
+
+.day-forecast > h2,
+.day-forecast > p {
+    margin: .2rem;
+    font-size: 1rem;
+}
+
+.centered{
+    padding-top:5px;
+    color: $greendim;
+}
+
+.container{
+    padding: 7px;
+    justify-content: center;
+}
+
+.runbtn {
+    background-color: $bluedark;
+    color: $biege;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 6px 25px;
+    margin-top: 4px;
+    margin-bottom: 10px;
+    border:none;
+    &:hover {
+        color: $greenmed;
+        cursor: pointer;
+    }
+}
+
+.progress-bar{
+    width: 360px;
+    margin:20px;
+    margin-bottom: 5px;
+}
+
+.percent {
+    font-weight: bold;
+    color: $greendim;
+}
+
+
+

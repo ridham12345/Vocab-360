@@ -1,0 +1,546 @@
+[
+    {
+        "title": "commensurate",
+        "defenition": "to be in proportion or corresponding in degree or amount",
+        "section": 1,
+        "difficulty": "common"
+    },
+    {
+        "title": "prodigal",
+        "defenition": "rashly or wastefully extravagant",
+        "section": 1,
+        "difficulty": "common"
+    },
+    {
+        "title": "iconoclast",
+        "defenition": "somebody who attacks cherished beliefs or institutions",
+        "section": 1,
+        "difficulty": "common"
+    },
+    {
+        "title": "amalgam",
+        "defenition": "a mixture of multiple things",
+        "section": 1,
+        "difficulty": "common"
+    },
+    {
+        "title": "acrimony",
+        "defenition": "bitterness and ill will",
+        "section": 1,
+        "difficulty": "common"
+    },
+    {
+        "title": "upbraid",
+        "defenition": "to reproach; to scold",
+        "section": 1,
+        "difficulty": "common"
+    },
+    {
+        "title": "profligate",
+        "defenition": "someone who spends money recklessly or wastefully",
+        "section": 1,
+        "difficulty": "common"
+    },
+    {
+        "title": "qualify",
+        "defenition": "to make less severe; to limit (a statement)",
+        "section": 1,
+        "difficulty": "common"
+    },
+    {
+        "title": "belie",
+        "defenition": "to give a false representation to;mispresent",
+        "section": 1,
+        "difficulty": "common"
+    },
+    {
+        "title": "enervate",
+        "defenition": "to sap energy from",
+        "section": 1,
+        "difficulty": "common"
+    },
+    {
+        "title": "conspicuous",
+        "defenition": "without any attempt at concealment; completely obvious",
+        "section": 2,
+        "difficulty": "common"
+    },
+    {
+        "title": "vociferous",
+        "defenition": "conspicuously and offensively loud; given to vehement outcry",
+        "section": 2,
+        "difficulty": "common"
+    },
+    {
+        "title": "chortle",
+        "defenition": "to chuckle, laugh merrily,often in a breathy,muffled way",
+        "section": 2,
+        "difficulty": "common"
+    },
+    {
+        "title": "predilection",
+        "defenition": "a strong liking",
+        "section": 2,
+        "difficulty": "common"
+    },
+    {
+        "title": "rustic",
+        "defenition": "characteristic of rural life; awkwardly simple and provincial",
+        "section": 2,
+        "difficulty": "common"
+    },
+    {
+        "title": "dogmatic",
+        "defenition": "highly opinionated, not accepting that your belief may not be correct",
+        "section": 2,
+        "difficulty": "common"
+    },
+    {
+        "title": "decorous",
+        "defenition": "characterized by good taste in manners and conduct",
+        "section": 2,
+        "difficulty": "common"
+    },
+    {
+        "title": "querulous",
+        "defenition": "habitually complaining",
+        "section": 2,
+        "difficulty": "common"
+    },
+    {
+        "title": "culpability",
+        "defenition": "a state of guilt",
+        "section": 2,
+        "difficulty": "common"
+    },
+    {
+        "title": "audacious",
+        "defenition": "willing to be bold in social situations or to take risks",
+        "section": 2,
+        "difficulty": "common"
+    },
+    {
+        "title": "jubilant",
+        "defenition": "full of high-spirited delight because of triumph or success",
+        "section": 3,
+        "difficulty": "common"
+    },
+    {
+        "title": "haugty",
+        "defenition": "having or showing arrogant superiority to and disdain of those one views as unworthy",
+        "section": 3,
+        "difficulty": "common"
+    },
+    {
+        "title": "precocius",
+        "defenition": "characterized by or characteristic of exceptionally early development or maturity (especially in mental aptitude)",
+        "section": 3,
+        "difficulty": "common"
+    },
+    {
+        "title": "itinerant",
+        "defenition": "traveling from place to place to work",
+        "section": 3,
+        "difficulty": "common"
+    },
+    {
+        "title": "immutable",
+        "defenition": "not able to be changed",
+        "section": 3,
+        "difficulty": "common"
+    },
+    {
+        "title": "mollify",
+        "defenition": "to make someone angry less angry; placate",
+        "section": 3,
+        "difficulty": "common"
+    },
+    {
+        "title": "quotidian",
+        "defenition": "found in the ordinary course of events",
+        "section": 3,
+        "difficulty": "common"
+    },
+    {
+        "title": "supplant",
+        "defenition": "take the place or move into the position of",
+        "section": 3,
+        "difficulty": "common"
+    },
+    {
+        "title": "fallacious",
+        "defenition": "of a belief that is based on faulty reasoning",
+        "section": 3,
+        "difficulty": "common"
+    },
+    {
+        "title": "tenacious",
+        "defenition": "stubbornly unyielding",
+        "section": 3,
+        "difficulty": "common"
+    },
+    {
+        "title": "acme",
+        "defenition": "the highest point of achievement",
+        "section": 1,
+        "difficulty": "basic"
+    },
+    {
+        "title": "telltale",
+        "defenition": "revealing",
+        "section": 1,
+        "difficulty": "basic"
+    },
+    {
+        "title": "miser",
+        "defenition": "a person who doesn't like to spend money (beacuse they are greedy)",
+        "section": 1,
+        "difficulty": "basic"
+    },
+    {
+        "title": "affable",
+        "defenition": "likeable; easy to talk to",
+        "section": 1,
+        "difficulty": "basic"
+    },
+    {
+        "title": "inflammatory",
+        "defenition": "extremely controversial, incendiary",
+        "section": 1,
+        "difficulty": "basic"
+    },
+    {
+        "title": "vindictive",
+        "defenition": "to have a very strong desire for revenge",
+        "section": 1,
+        "difficulty": "basic"
+    },
+    {
+        "title": "pinnacle",
+        "defenition": "the highest point",
+        "section": 1,
+        "difficulty": "basic"
+    },
+    {
+        "title": "erratic",
+        "defenition": "unpredictable; strange and unconventional",
+        "section": 1,
+        "difficulty": "basic"
+    },
+    {
+        "title": "variance",
+        "defenition": "the quality of being different",
+        "section": 1,
+        "difficulty": "basic"
+    },
+    {
+        "title": "zenith",
+        "defenition": "the highest point;culmination",
+        "section": 1,
+        "difficulty": "basic"
+    },
+    {
+        "title": "lassitude",
+        "defenition": "extreme tiredness,either mental or physical",
+        "section": 2,
+        "difficulty": "basic"
+    },
+    {
+        "title": "bellicose",
+        "defenition": "warlike;inclined to quarrel",
+        "section": 2,
+        "difficulty": "basic"
+    },
+    {
+        "title": "amok",
+        "defenition": "in a frenzied or uncontrolled state",
+        "section": 2,
+        "difficulty": "basic"
+    },
+    {
+        "title": "lmponderable",
+        "defenition": "impossible to estimate or figure out",
+        "section": 2,
+        "difficulty": "basic"
+    },
+    {
+        "title": "sanctimonious",
+        "defenition": "making a show of being pious;hoiler-than-thou",
+        "section": 2,
+        "difficulty": "basic"
+    },
+    {
+        "title": "hodgepodge",
+        "defenition": "a confusing mixture or jumble",
+        "section": 2,
+        "difficulty": "basic"
+    },
+    {
+        "title": "vicarious",
+        "defenition": "felt or undergine as if one were talking part in the experience or feelings of another",
+        "section": 2,
+        "difficulty": "basic"
+    },
+    {
+        "title": "unconscionable",
+        "defenition": "unreasonable;unscrupulous;excessive",
+        "section": 2,
+        "difficulty": "basic"
+    },
+    {
+        "title": "immaterial",
+        "defenition": "not relevant",
+        "section": 2,
+        "difficulty": "basic"
+    },
+    {
+        "title": "pittance",
+        "defenition": "a small amount (of money)",
+        "section": 2,
+        "difficulty": "basic"
+    },
+    {
+        "title": "incessant",
+        "defenition": "uninterrupted in time and identifly long continuing",
+        "section": 3,
+        "difficulty": "basic"
+    },
+    {
+        "title": "resolve",
+        "defenition": "reach a conclusion after a discussion or deliberation",
+        "section": 3,
+        "difficulty": "basic"
+    },
+    {
+        "title": "robust",
+        "defenition": "sturdy and strong in form, constitution, or construction",
+        "section": 3,
+        "difficulty": "basic"
+    },
+    {
+        "title": "moot",
+        "defenition": "open to argument or debate; undecidable in a meaningless or irrelevant way",
+        "section": 3,
+        "difficulty": "basic"
+    },
+    {
+        "title": "deter",
+        "defenition": "turn away from by persuasion",
+        "section": 3,
+        "difficulty": "basic"
+    },
+    {
+        "title": "raffish",
+        "defenition": "marked by a carefree unconventionality or disreputableness",
+        "section": 3,
+        "difficulty": "basic"
+    },
+    {
+        "title": "jocular",
+        "defenition": "chracterized by jokes and good humor",
+        "section": 3,
+        "difficulty": "basic"
+    },
+    {
+        "title": "fete",
+        "defenition": "to celebrate a person",
+        "section": 3,
+        "difficulty": "basic"
+    },
+    {
+        "title": "advocate",
+        "defenition": "speak,plead or argue in favor of",
+        "section": 3,
+        "difficulty": "basic"
+    },
+    {
+        "title": "ornate",
+        "defenition": "marked by elaborate rhetoric and elaborated with decorative details",
+        "section": 3,
+        "difficulty": "basic"
+    },
+    {
+        "title": "choleric",
+        "defenition": "prone to outbursts of hemper;easily angered",
+        "section": 1,
+        "difficulty": "advanced"
+    },
+    {
+        "title": "indigent",
+        "defenition": "poor;having very little",
+        "section": 1,
+        "difficulty": "advanced"
+    },
+    {
+        "title": "equivocate",
+        "defenition": "o speak vaguely, usually with the intention to mislead or deceive",
+        "section": 1,
+        "difficulty": "advanced"
+    },
+    {
+        "title": "lescivious",
+        "defenition": "lecherous; sexually perverted",
+        "section": 1,
+        "difficulty": "advanced"
+    },
+    {
+        "title": "insufferable",
+        "defenition": "intolerable, difficult to endure",
+        "section": 1,
+        "difficulty": "advanced"
+    },
+    {
+        "title": "hector",
+        "defenition": "to bully or intimidate",
+        "section": 1,
+        "difficulty": "advanced"
+    },
+    {
+        "title": "imbibe",
+        "defenition": "to drink or absorb as if drinking",
+        "section": 1,
+        "difficulty": "advanced"
+    },
+    {
+        "title": "kowtow",
+        "defenition": "to bow or act in a subservient manner",
+        "section": 1,
+        "difficulty": "advanced"
+    },
+    {
+        "title": "feckless",
+        "defenition": "lazy and irresponsible",
+        "section": 1,
+        "difficulty": "advanced"
+    },
+    {
+        "title": "pariah",
+        "defenition": "an outcast",
+        "section": 1,
+        "difficulty": "advanced"
+    },
+    {
+        "title": "factitious",
+        "defenition": "artificial; not natural",
+        "section": 2,
+        "difficulty": "advanced"
+    },
+    {
+        "title": "excoriate",
+        "defenition": "to criticize very harshly",
+        "section": 2,
+        "difficulty": "advanced"
+    },
+    {
+        "title": "venial",
+        "defenition": "easily excused or firgiven;pardonable",
+        "section": 2,
+        "difficulty": "advanced"
+    },
+    {
+        "title": "palimpsest",
+        "defenition": "something that has been changed numerous times but on which traces of former iterations can still be seen",
+        "section": 2,
+        "difficulty": "advanced"
+    },
+    {
+        "title": "propitiate",
+        "defenition": "to placate or appease",
+        "section": 2,
+        "difficulty": "advanced"
+    },
+    {
+        "title": "invective",
+        "defenition": "abusive or denunciatory language",
+        "section": 2,
+        "difficulty": "advanced"
+    },
+    {
+        "title": "hedge",
+        "defenition": "to limit or qualify a statement; to avoid making a direct statement",
+        "section": 2,
+        "difficulty": "advanced"
+    },
+    {
+        "title": "the study accelerator",
+        "defenition": "a helpful tool for keeping studying on track",
+        "section": 2,
+        "difficulty": "advanced"
+    },
+    {
+        "title": "benighted",
+        "defenition": "fallen into a state of ignorance",
+        "section": 2,
+        "difficulty": "advanced"
+    },
+    {
+        "title": "schadenfreude",
+        "defenition": "joy from watching the suffering of others",
+        "section": 2,
+        "difficulty": "advanced"
+    },
+    {
+        "title": "dyplicity",
+        "defenition": "deceitfulness, pretending to want one thing but interested in something else",
+        "section": 3,
+        "difficulty": "advanced"
+    },
+    {
+        "title": "prognostication",
+        "defenition": "a statement made about the future",
+        "section": 3,
+        "difficulty": "advanced"
+    },
+    {
+        "title": "anemic",
+        "defenition": "lacking energy and vigor",
+        "section": 3,
+        "difficulty": "advanced"
+    },
+    {
+        "title": "lampoon",
+        "defenition": "ridicule with satire",
+        "section": 3,
+        "difficulty": "advanced"
+    },
+    {
+        "title": "epiphany",
+        "defenition": "a sudden revelation or moment of insight",
+        "section": 3,
+        "difficulty": "advanced"
+    },
+    {
+        "title": "grandiloquent",
+        "defenition": "puffed up with vanity",
+        "section": 3,
+        "difficulty": "advanced"
+    },
+    {
+        "title": "anodyne",
+        "defenition": "something that sooothes or relieves pain",
+        "section": 3,
+        "difficulty": "advanced"
+    },
+    {
+        "title": "perspicacious",
+        "defenition": "acutely insightful and wise",
+        "section": 3,
+        "difficulty": "advanced"
+    },
+    {
+        "title": "approbatory",
+        "defenition": "expressing praise or approval",
+        "section": 3,
+        "difficulty": "advanced"
+    },
+    {
+        "title": "sinecure",
+        "defenition": "an office that involvex minimal duties",
+        "section": 3,
+        "difficulty": "advanced"
+    }
+    
+    
+
+
+]

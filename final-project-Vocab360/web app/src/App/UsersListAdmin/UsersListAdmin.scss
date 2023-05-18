@@ -1,0 +1,29 @@
+@import '../App.scss';
+
+
+//styling for header in user list screen
+.userslist-title  > * {
+    font-size: 32px;
+    font-weight: bold;
+    margin-left: 30px;
+}
+
+//styling for buttons in user list screen
+.userslist-title button {
+    background-color: $bluedark;
+    color: $greenmed;
+    border:none;
+    &:hover {
+        color: $biege
+    }
+}
+
+// styling for all the children of the main element
+.userstable > * {
+    margin-left: 30px;
+    font-size: 24px;
+    padding-top: 15px;
+    &:hover {
+        color: $biege;
+    }
+}

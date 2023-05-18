@@ -1,0 +1,17 @@
+// making main grid
+.container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);;
+  grid-gap: 10px;
+}
+
+//color palette
+$bluedark: #05386B;
+$greendark: #379683;
+$greenmed: #5CDB95;
+$greendim: #8EE4AF;
+$biege: #EDF5E1;
+
+body {
+  background-color: $bluedark;
+}
